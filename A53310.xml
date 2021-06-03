@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last vvill and testament of Philip Herbert, burgesse for Bark-shire, vulgarly called Earl of Pembroke and Montgomery, who dyed of foole-age, Jan. 23, 1650 with his life and death, and severall legacies to the Parliament and councel of state : also his elegy, taken verbatim in time of his sicknesse, and published to prevent false copies by Michael Oldisworth.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53310</idno><idno type="EEBO-CITATION">12996440</idno>
+  <idno type="VID">96407</idno>
+  <idno type="EEBO-PROQUEST">2248530277</idno>
+  
+            <idno type="STC">Wing O256</idno>
+            <idno type="STC">ESTC R9295</idno>
+            <idno type="OCLC">12996440</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96407)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 393:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last vvill and testament of Philip Herbert, burgesse for Bark-shire, vulgarly called Earl of Pembroke and Montgomery, who dyed of foole-age, Jan. 23, 1650 with his life and death, and severall legacies to the Parliament and councel of state : also his elegy, taken verbatim in time of his sicknesse, and published to prevent false copies by Michael Oldisworth.</title>
+               </titleStmt>
+               <extent>[3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the fall of tyranny, and resurrection of loyalty,</publisher>
+                  <pubPlace>Nod-nol [i.e. London] :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in prose and verse on the Earl of Pembroke and Michael Oldisworth. This is a wholly different work from "The first part of the last wil &amp; testament of Philip Earle of Pembrooke (1679).</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pembroke, Philip Herbert, --  Earl of, 1584-1650.</term>
+               <term type="personal_name">Oldisworth, Michael, 1591-1654?</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96407:1"/>
+            <pb facs="tcp:96407:1"/>
+            <p>THE LAST VVILL AND TESTAMENT OF PHILIP HERBERT, Burgesse for Bark-shire, Vulgarly called Earl of Pembroke and MONTGOMERY.</p>
+            <p>Who dyed of Foole-Age, <hi>Jan.</hi> 23. 1650.</p>
+            <p>With his Life and Death, and severall Legacies to the Parliament and Councel of State.</p>
+            <p>ALSO, His ELEGY, taken <hi>verbatim,</hi> in time of his sicknesse, and published to prevent false Copies, By MICHAEL OLD<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>WORTH.</p>
+            <p>
+               <hi>NOD-NOL,</hi> Printed in the Fall of TYRANNY, and Resur<g ref="char:EOLhyphen"/>rection of LOYALTY. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96407:2"/>
+            <pb n="1" facs="tcp:96407:2"/>
+            <head>THE LAST WILL AND TESTAMENT OF PHILIP HERBERT Earle of Pembroke, &amp;c.</head>
+            <p>I PHILIP HERBERT, Burgesse for <hi>Bark-shire,</hi> vulgarly cal<g ref="char:EOLhyphen"/>led Earle of <hi>Pembroke</hi> and <hi>Montgomery, &amp;c.</hi> of the Familie of <hi>Esau,</hi> of the Tribe of <hi>Many-Asses,</hi> of the Citie of <hi>Nod-nol,</hi> being something diseased in Body, yet <hi>God dam me</hi> in perfect Memorie of Mind; doe ordaine this my last Will and Testament in manner and forme following to stand in full force and vertue, revoking all former Wills, Grants, Gifts, Deeds, Bills, Bonds, or Obligations whatsoever.</p>
+            <p>
+               <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imis,</hi> I give and bequeath my Soul into the hands of him that hath most right to take it; that is to say, the Father of Lies, Oaths, and Perjuries, <hi>the Prince of the Aire, that now beares rule in the Children of disobedience</hi> at <hi>Westminster, VVhite-hall,</hi> or elsewhere.</p>
+            <p>
+               <hi>Second y,</hi> I will that my <hi>Body</hi> be decently interred at <hi>Hide-Park</hi> Corner, (because in my Life I delighted much in hunting) or if the State shall think fit, in any Parke or Chase of my owne, or the late Kings, with the full cry of all my pack of Dogs, whe<g ref="char:EOLhyphen"/>ther in <hi>Bark-shire, VVilt-shire,</hi> or elsewhere, and that none else doe lament for me, nor doe my Obsequies, except at the laying in my <hi>Corps</hi> into the ground, there be discharged a volly of <hi>curses</hi> from all the <hi>Swearers</hi> and <hi>For-swearers</hi> in <hi>England</hi> and <hi>Ireland,</hi> which shall be seconded from the <hi>Citie</hi> and <hi>Tower</hi> by all the Par<g ref="char:EOLhyphen"/>liaments
+<pb n="2" facs="tcp:96407:3"/> fowl-mouth'd Ordinance; provided, that Alderman <hi>Adkins</hi> discharge the first Piece, as well to prevent danger, as to save Powder for <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> I give and bequeath my <hi>Wit</hi> to the Aldermen of the Citie of <hi>Nodnol,</hi> and to their Heires male to be hereditary to the worlds end, to be imployed for the good and safety of the Citie.</p>
+            <p>
+               <hi>Fourthly,</hi> I give and bequeath my <hi>Allegi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> to the defunct House of Lords, and their Heires and Assignes, in case they re<g ref="char:EOLhyphen"/>maine obedient unto the Commons, and seek not after their right in sitting again in the said House; which if they shall at any time attempt to doe, that then it shall fall to <hi>Oliver</hi> Lord <hi>Cromwell,</hi> Deputy of <hi>Ireland;</hi> and in case of his death, to his Sonne in law <hi>Iretos,</hi> and the rest of the Independent <hi>Royall Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>geny,</hi> Parlia<g ref="char:EOLhyphen"/>ment everl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st ng world without end.</p>
+            <p>
+               <hi>Fift<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly,</hi> I give my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to my Lord <hi>Wharton,</hi> and his Heirs for ever, provided that he preserve it warily in a Saw-pit, for the use of Sir <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>homas</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ol. <hi>Pride,</hi> the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay man.</p>
+            <p>
+               <hi>Sixth,</hi> For my <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nest,</hi> (being not worth the giving) I will that it be buried with me and i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my grave wil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t containe it, that the over-plus goe to the Parliaments use, to be issued out to the Grandees of the Independent <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>action, and imployed in their severall <hi>Acts</hi> and <hi>Ord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nances;</hi> provided, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ereafter that no Excise or Impost be put on so precious a Comm dity.</p>
+            <p>
+               <hi>Seventhly,</hi> My old Wife I beque<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th to my Chaplaine <hi>Michael Oldisworth,</hi> to be conve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted to his own propper <hi>use</hi> and <hi>doctrine,</hi> in point of consolation f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r her <hi>body</hi> as well as <hi>soules</hi> health, pro<g ref="char:EOLhyphen"/>vided he <hi>edifie</hi> her every day to her hearts content.</p>
+            <p>
+               <hi>Fightly,</hi> I give a l my <hi>Oathes</hi> to the Parliament, that they may use them as they have occasion, either in swearing to new Cove<g ref="char:EOLhyphen"/>nants or Engagements provided, they null and make them void as oft as they shall have occasion.</p>
+            <p>
+               <hi>Ninthly,</hi> I give and bequeath all my Houshold-Goods, Lands, Mannors, Tenements, Hereditaments, Parkes, and Warrents, to the House of Commons; provided, that Mr. <hi>Henry Martin,</hi> and Mr. <hi>VVeaver</hi> have egresse and regresse into them at their pleasure, to ferit my <hi>Coney-Buryes,</hi> and hunt in the <hi>Purleyes,</hi> and take and car<g ref="char:EOLhyphen"/>ry away what Game they please; onely <hi>Baynards</hi>-Castle, scituate on the South-side of the River <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hames, London,</hi> I ordaine to be made an Hospitall to relieve all decayed <hi>Swearers,</hi> and others
+<pb n="3" facs="tcp:96407:3"/> that shall not deny any Oathes invented for the erecting of the new Modell of State, or have the least feare to perjure themselves for the good of the Common-wealth; and he that is free (being a Member of Parliament) to enjoy no benefit thereby.</p>
+            <p>
+               <hi>Tenthly,</hi> I give and bequeath my <hi>Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gings</hi> to the Councel of State, to use at their owne discretions; provided, the Hangings of my inner with-drawing Roome (being the <hi>Story</hi> of <hi>Iudas</hi> be<g ref="char:EOLhyphen"/>traying of Christ) be given to <hi>Iohn Bradshaw,</hi> to put him in mind of his latter end.</p>
+            <p>
+               <hi>Eleventhly,</hi> I give and bequeath my <hi>Coat of Armes</hi> to bee worne by all Noblemens Sons, that shall descend from Earles or Lords, from Lords to Knights, and from Knights to Commons, and so become Burgesses, and claime their Honour downewards, as my selfe hath done; provided, they be borne with no more Wit nor Honesty then my selfe.</p>
+            <p>
+               <hi>Ywe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hly,</hi> I give to the State 1000000 <hi>li.</hi> in ready Monies, to provide them more Armes for <hi>Ireland,</hi> and to raise Money and Horse against Sir <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>homas,</hi> in case he still stands out and refuses to deliver up his Commission, or signe the new Engagement.</p>
+            <p>
+               <hi>Thirteen<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly,</hi> I give my <hi>Periwig</hi> and all my wearing Cloaths to Mr. <hi>W lliam Low,</hi> Predecessor to Mr. <hi>Richard Brandon;</hi> and ten pounds to buy him Mourning.</p>
+            <p>
+               <hi>Fourteenthly</hi> I will and ordaine <hi>Michael Oldisworth</hi> my Chap<g ref="char:EOLhyphen"/>laine to preac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Funerall Sermon, and give him twenty Nobles to tell the people all my good deeds, and cry up my Nobility.</p>
+            <p>
+               <hi>Fifteenth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> I give unto M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stris <hi>May</hi> two Diamond Rings, and a Gold Chaine, besides two Shifts of Linnen, that heareafter she may have no straight dealings in her Linnen: also I give and be<g ref="char:EOLhyphen"/>queath unto her the said Mistris <hi>May,</hi> my dear Concubine 200 <hi>li.</hi> in gold, to marry her to <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om</hi> my Groom.</p>
+            <p>
+               <hi>Sixteenthly,</hi> I give and bequeath <hi>VVill. Lilly</hi> 200 <hi>li.</hi> to see if he can keep the Devill from me, whom now my time is expired, I must expect to fetch me in a great storme, according to the Cove<g ref="char:EOLhyphen"/>nant made and sealed between him and my selfe.</p>
+            <p>
+               <hi>Seventeenthly,</hi> I give and bequeath my whole pack of Dogs to the next Burgesse chosen for <hi>Bark-shire,</hi> that my bawling may be kept in perpetuall remembrance from one Puppy to another, till the end of this blessed Parliament; provided, they duly pay Excise for every such Dog, according to the rate of this Parliament.</p>
+            <pb facs="tcp:96407:4"/>
+            <p>
+               <hi>Lastly,</hi> I give all my Hawkes to Sir <hi>Thomas,</hi> provided he hath the wit to know a Hawke from a Bazard, and tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he let them fly at nothing but Game-Royall: <hi>Dam m</hi> I am very sick, and my Memory failes me much; <hi>R f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me</hi> if I can remember what I have else to give, but something I have, which I leave to the discretion of my Executors, to be disposed as they shall think fit: <hi>Sinke me.</hi> I have troubled my mind too much with things-belong<g ref="char:EOLhyphen"/>ing to this world already; and yet <hi>Judge me,</hi> nothing grieves me, but that a pox on't, now they may call me <hi>a rotten Lord indeed:</hi> who the Devill thought Death had been so neer? and yet <hi>by God</hi> 'tis better to dye in ones Bed, then live to be hang'd: &amp; who do you thinke (being a Member of Parliament) will scape that death, if the late Kings Sonne should prevaile over us? <hi>judge me,</hi> it troubles my Conscience that I had a hand in his Fathers Death; but it is a little comfort to me, to dye and cozen him of his Re<g ref="char:EOLhyphen"/>venge:—<hi>Michael,</hi> where a pox art thou now? Zblood, I am well hope up to have such a Comforter at my Death; ha, ha, ha, what's that? now 'tis at my beds feet; oh, oh, oh, all bloody too; Murther, murther, call up my men, <hi>Ralph, Robin, Dick,</hi> with a pox, there 'tis; now 'tis like a Cat, a pox mew ye, doe ye take a Noble-man to be a Mouse? Oh, oh, it bites, it bites, it bites, the Devill, the Devill, the Devill: oh my Conscience; Zblood, give me some Sack, Ile drinke a confusion to Death: Grasse and Hay, a Foole must dye as well as a Knave: <hi>Michael</hi> remember me to all my Friends at <hi>VVhite-Hall,</hi> bid them have a care; <hi>Dam me</hi> there 'tis againe, a Man without a Head, beckoning me with his Hand, and bending his Fist at me; What a pox art thou? speake, if thou art a Man speake; speake, speake; zblood, canst thou not speake without a Head? so ho, so ho, that Dog spends well; tat, tat, Ring-wood, a plague confound that Curre, take him and couple him to Jowler; tell 'um Ile to <hi>Guild-hall</hi> presently;—a pox of Honour, what need a dying man care for switching? Oh Mistris <hi>May,</hi> come to bed Sweet-heart come, my Duck, my Birds-nye; Zblood, I must goe to <hi>Salisbury</hi> to mor<g ref="char:EOLhyphen"/>row, bring me my Boots quickly; <hi>Dam me</hi> this Park troubles me, Ile ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t right or wrong; Zounds, will not the Rogues bring me more Money; Zblood, that <hi>Cock's</hi> worth a Kings Ransome, a runs, a runs, a thousand pound to a Hobby-horse; Rub, Rub, Rub, a pox Rub a whole hundred Rubs; Zounds, I thinke my
+<pb n="5" facs="tcp:96407:4"/> Bowl's bewitch'd, it has no more Byas then a Bag-Pudding; <hi>Michael,</hi> tell them Ile restore those <hi>Pictures</hi> and <hi>Modells</hi> I had from S. <hi>Iamses;</hi> the seiling of the Banquet-House at White-Hall tell them is as fit for my Parlor in <hi>Ramesbury</hi> Mannor as can be; a plague, must I build a House for another to make a Bawdy-House of? who can make me a <hi>Skelliton?</hi> commend me to Mr. <hi>Steaker,</hi> tell h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m Ile have <hi>Woodstock</hi>-Bower, and bid him re<g ref="char:EOLhyphen"/>member the Hangings that came from <hi>Hampton</hi>-Court; Ile come to the House to morrow, and remove the Obstructions in the sale of the Kings Goods: Zblood, Ile have the University re<g ref="char:EOLhyphen"/>formed as I list: <hi>Goodwin</hi> is too Scollarish, Ile have a Beetle-head for that blockish Colledge; <hi>Ralph,</hi> tye up <hi>Iewell</hi> from her Pup<g ref="char:EOLhyphen"/>pies, they'le suck her as bare as a Birds Arse: Oh the Fiends, the Fiends.—</p>
+            <q>
+               <l>I come, I come, good Devill lead the way,</l>
+               <l>When Rebells dye Hell makes a Holly-day.</l>
+            </q>
+            <p>
+               <hi>His Lordship having no sooner ended this his last Speech, but he stared very w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stfully on Mistresse</hi> May, <hi>(his Honours Concubine) and swore</hi> Dam me, Sinke me, <hi>and</hi> Confound me, <hi>some nine times over, and so yielded up the Ghost, and his</hi> Soule <hi>was conveyed away in a hideous storme.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <head>Witnesse</head>
+                     <item>Michael Oldisworth.</item>
+                     <item>Ralph King.</item>
+                     <item>Richard Bridges.</item>
+                     <item>Robert May.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <head>An <hi>Elegie</hi> on the sometimes honourable <hi>Philip Herbert,</hi> Burgesse for <hi>Bark-shire,</hi> and a Member of the new Com<g ref="char:EOLhyphen"/>mon-wealth: who departed this Life, <hi>Ian.</hi> 23. 1649. just a year wanting 7 dayes after he had seen his KING murthered before his owne Gate.</head>
+            <l>HEre lyes <hi>swea ing Pembroke,</hi> to dye he was loath,</l>
+            <l>Yet when he departed, was choak'd with an <hi>Oath:</hi>
+            </l>
+            <pb n="6" facs="tcp:96407:5"/>
+            <l>No honest men grieve, when <hi>Rebells</hi> doe fall,</l>
+            <l>
+               <hi>God dam him,</hi> he dy'd, and so they must all.</l>
+            <l>In Hunting and Hawking was his chiefe delight,</l>
+            <l>Would Bowle, drink, and drab too, rather then fight.</l>
+            <l>When he was advanc'd by his King very high,</l>
+            <l>Turn'd <hi>Traytor,</hi> and help'd pull downe <hi>Monarchie.</hi>
+            </l>
+            <l>A <hi>Foole</hi> he liv'd long, yet dyed a <hi>Knave,</hi>
+            </l>
+            <l>A wonder indeed, if God should him save.</l>
+            <l>His Life was ne're good, his deeds were all evill,</l>
+            <l>He's now go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to Hell, to out swearee the Devill.</l>
+            <l>Much miserie to <hi>England</hi> this <hi>Traytor</hi> did bring,</l>
+            <l>To ruine the <hi>People,</hi> and murther the <hi>King.</hi>
+            </l>
+            <l>He had been advanced to a high <hi>Degree,</hi>
+            </l>
+            <l>Had not Death like a <hi>Cheater,</hi> cozen'd the <hi>Tree:</hi>
+            </l>
+            <l>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t now he is dead, full low he must fall,</l>
+            <l>Though by his death <hi>Will Low</hi> hath lost all.</l>
+            <l>All you that will mourne his death at the Grave,</l>
+            <l>Draw <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and make Water upon an old <hi>Knave:</hi>
+            </l>
+            <l>No more of his <hi>Vertues</hi> I need to commend,</l>
+            <l>What he was all his <hi>Life,</hi> he was at his <hi>End.</hi>
+            </l>
+            <trailer>FINS.</trailer>
+            <pb facs="tcp:96407:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
